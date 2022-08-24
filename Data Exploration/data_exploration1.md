@@ -1,5 +1,4 @@
-** What is the name of the category with the highest category_id in the dvd_rentals.0category table?
-/
+** What is the name of the category with the highest category_id in the dvd_rentals.0category table?  
 ``SELECT 
   name,
   category_id
